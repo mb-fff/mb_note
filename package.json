@@ -48,5 +48,6 @@
     "unplugin-vue-components": "^0.17.15",
     "vue-jest": "^5.0.0-0",
     "webpack-bundle-analyzer": "^4.5.0"
-  }
+  },
+  "license": "MIT"
 }
