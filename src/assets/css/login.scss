@@ -1,0 +1,39 @@
+.m-dialog-login {
+  .el-dialog__title {
+    font-weight: bold;
+  }
+
+  .m-content {
+    height: 200px;
+
+    .m-form-login {
+      .m-btn-login {
+        width: 100%;
+      }
+    }
+
+    .m-other-way {
+      height: 20px;
+      line-height: 20px;
+      color: #409eff;
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+    .m-protocol {
+      height: 20px;
+      line-height: 20px;
+      margin: 5px 0;
+
+      .m-mark {
+        color: #409eff;
+
+        &:hover {
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
